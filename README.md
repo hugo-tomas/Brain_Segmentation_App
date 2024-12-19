@@ -3,6 +3,7 @@
 ## Overview
 This project focuses on the segmentation of brain images in both continuous time and isolated image modes. The segmentation process is performed across three anatomical planes: Coronal; Sagittal; Axial. The accompanying graphical user interface (GUI), GUI_API_FinalProject.mlapp, allows users to visualize and interact with the results of the segmentation process.
 
+![GUI Screenshot](segmentationApp.png)
 
 ## Purpose
 The main objective of this project is to enable efficient brain segmentation using image analysis and processing techniques. The GUI offers several visualization modes and segmentation options, making it a comprehensive tool for analyzing brain slices.
